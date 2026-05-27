@@ -10,7 +10,7 @@ const projects = [
     image: "/projects/Project1.png",
     tags: ["JavaScript", "CSS", "Firebase"],
     link: "https://entradashakuna.netlify.app/",
-    github: "#",
+    github: "https://github.com/Yammery80/Employee-Time-Tracker/tree/main",
   },
   {
     title: "Gestor de inventario de Microempresa",
@@ -19,7 +19,7 @@ const projects = [
     image: "/projects/Project2.png",
     tags: ["Firebase", "CSS", "Python", "JavaScript"],
     link: "https://miletprojects.netlify.app/",
-    github: "#",
+    github: "https://github.com/Yammery80/miletproductos",
   },
   {
     title: "Pagina de E-commerce de tienda MFP",
@@ -28,7 +28,7 @@ const projects = [
     image: "/projects/Project3.png",
     tags: ["Javascript", "Claude", "Mercado Pago", "Firebase"],
     link: "https://miletfashionpets.netlify.app/",
-    github: "#",
+    github: "https://github.com/Yammery80/miletfashionpets",
   },
   {
     title: "Gestor de Pedidos Costco",
@@ -37,7 +37,7 @@ const projects = [
     image: "/projects/Project4.png",
     tags: ["Java", "CSS", "Firebase"],
     link: "https://costcomiley.netlify.app/",
-    github: "#",
+    github: "https://github.com/Yammery80/costcov1",
   },
   {
     title: "Plataforma de Administración de Portafolio Financiero",
@@ -46,7 +46,7 @@ const projects = [
     image: "/projects/Project5.png",
     tags: ["CSS", "Firebase", "JavaScript"],
     link: "https://invertimx.netlify.app/",
-    github: "#",
+    github: "https://github.com/Yammery80/invertimex",
   },
 ];
 

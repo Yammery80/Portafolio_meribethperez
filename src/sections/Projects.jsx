@@ -7,7 +7,7 @@ const projects = [
     title: "Gestion de entradas y salidas de ciber Papeleria",
     description:
       "Gestor de entradas y salidas de microempresa, para cálculo automatico de sueldos y pagos.",
-    image: "../../public/projects/Project1.png",
+    image: `${import.meta.env.BASE_URL}projects/Project1.png`,
     tags: ["JavaScript", "CSS", "Firebase"],
     link: "https://entradashakuna.netlify.app/",
     github: "https://github.com/Yammery80/Employee-Time-Tracker/tree/main",
@@ -16,7 +16,7 @@ const projects = [
     title: "Gestor de inventario de Microempresa",
     description:
       "Sistema de control de inventario de diferentes sucursales, con gestor de ventas, dashboard, y detección de alimentos próximos a caducar.",
-    image: "../../public/projects/Project2.png",
+    image: `${import.meta.env.BASE_URL}projects/Project2.png`,
     tags: ["Firebase", "CSS", "Python", "JavaScript"],
     link: "https://miletprojects.netlify.app/",
     github: "https://github.com/Yammery80/miletproductos",
@@ -25,7 +25,7 @@ const projects = [
     title: "Pagina de E-commerce de tienda MFP",
     description:
       "Pagina de venta de mascota con pagos por Mercado Pago.",
-    image: "../../public/projects/Project3.png",
+    image: `${import.meta.env.BASE_URL}projects/Project3.png`,
     tags: ["Javascript", "Claude", "Mercado Pago", "Firebase"],
     link: "https://miletfashionpets.netlify.app/",
     github: "https://github.com/Yammery80/miletfashionpets",
@@ -34,7 +34,7 @@ const projects = [
     title: "Gestor de Pedidos Costco",
     description:
       "Página de gestión de pedidos de Costco para checar adeudos, entregas y lista de pedidos",
-    image: "../../public/projects/Project4.png",
+    image: `${import.meta.env.BASE_URL}projects/Project4.png`,
     tags: ["Java", "CSS", "Firebase"],
     link: "https://costcomiley.netlify.app/",
     github: "https://github.com/Yammery80/costcov1",
@@ -43,7 +43,7 @@ const projects = [
     title: "Plataforma de Administración de Portafolio Financiero",
     description:
       "Página de administración de portafolio de inversiones en base a diferentes carteras.",
-    image: "../../public/projects/Project5.png",
+    image: `${import.meta.env.BASE_URL}projects/Project5.png`,
     tags: ["CSS", "Firebase", "JavaScript"],
     link: "https://invertimx.netlify.app/",
     github: "https://github.com/Yammery80/invertimex",
